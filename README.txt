@@ -1,4 +1,4 @@
-#Tarefa 1 e 2
+TAREFA 1 e 2
 
 - Estrutura de framework e principais libs/software
     
