@@ -1,0 +1,16 @@
+<dataset>
+
+	<municipio id="1" municipio_desc="São Paulo" 		estado="SP" />
+	<municipio id="2" municipio_desc="Rio de Janeiro" 	estado="RJ" />
+	<municipio id="3" municipio_desc="Salvador" 		estado="BA" />
+	
+	<cep id_mun="1" cep_cod="87654321" rua="rua são paulo"	 bairro="centro" />
+	<cep id_mun="2" cep_cod="11111111" rua="rua rio de janeiro"/>
+ 	<cep id_mun="3" cep_cod="88888888" rua="rua da bahia"/>
+	
+	
+	<endereco id="1" cep_cod="87654321" rua="rua são paulo" 		numero="1" 	bairro="Bairro1" complemento="complemento1"/>	
+	<endereco id="2" cep_cod="11111111" rua="rua rio de janeiro" 	numero="4"/>
+	<endereco id="3" cep_cod="87654321" rua="rua são paulo"			numero="2"	 bairro="Bairro1" complemento="complemento1"/>
+	
+ </dataset>

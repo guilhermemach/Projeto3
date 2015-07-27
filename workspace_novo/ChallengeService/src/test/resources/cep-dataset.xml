@@ -1,0 +1,10 @@
+<dataset>
+ 
+	<municipio id="1" municipio_desc="São Paulo" estado="SP" />
+	<municipio id="2" municipio_desc="Rio de Janeiro" estado="RJ" />
+	
+	<cep id_mun="1" cep_cod="12345678" rua="rua sao paulo" bairro="centro" />
+	<cep id_mun="2" cep_cod="87654321" rua="rua rio de janeiro" bairro="centro" />
+	<cep id_mun="2" cep_cod="00000000" rua="rua rio de janeiro" bairro="centro" />
+	
+ </dataset>
